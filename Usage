@@ -1,0 +1,9 @@
+Usage
+
+1)Open and run the ANN_assignment1.ipynb notebook to:
+
+2)Load and preprocess the MNIST 8x8 dataset
+
+3)Train and evaluate the three neural network models
+
+4)Visualize the results and compare model performance
