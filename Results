@@ -1,0 +1,9 @@
+Results
+
+.The models achieve the following accuracy on the test set:
+
+.Linear Associator: 40.28%
+
+.Hopfield Network: 82.19%
+
+.Bidirectional Associative Memory: 30.00%
